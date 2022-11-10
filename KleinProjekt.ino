@@ -40,9 +40,9 @@ uint32_t delayMS;
 //const char* ssid = "iPhoneStephan";   
 const char* ssid = "OHB DS";
 //const char* ssid = "ZION2.4.1";
-//const char* password = "Richard020976!";  
-const char* password = "32rKAtpCRfP9WcD7p6Ue";
-//const char* password = "83829662612821989076";
+//const char* password = "";  
+const char* password = "";
+//const char* password = "";
 const char* mqtt_server = "small-project.westeurope.cloudapp.azure.com";
 
 // ============================ MQTT ============================================
